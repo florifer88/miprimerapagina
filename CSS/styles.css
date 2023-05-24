@@ -143,4 +143,7 @@ h2{
     flex-direction: column;
 
   }
+  .greeting {
+    text-align: center;
+  }
   
